@@ -3512,6 +3512,7 @@ tbody.collapse.show {
 .nav-link {
   display: block;
   padding: 0.5rem 1rem;
+  font-size: 12pt;
 }
 
 .nav-link:focus, .nav-link:hover {
@@ -3573,6 +3574,7 @@ tbody.collapse.show {
   -ms-flex: 1 1 auto;
       flex: 1 1 auto;
   text-align: center;
+  font-size: 12pt; 
 }
 
 .nav-justified .nav-item {
